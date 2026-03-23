@@ -12,4 +12,4 @@ pandas
 numpy
 matplotlib
 streamlit
- --upgrade pip
+ --upgrade pip 26.0.1
